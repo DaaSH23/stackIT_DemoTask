@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/stackIT_DemoTask/static/css/main.e2d4cdd9.css",
+    "main.js": "/stackIT_DemoTask/static/js/main.6cfabfe6.js",
+    "static/js/787.d5fa4d18.chunk.js": "/stackIT_DemoTask/static/js/787.d5fa4d18.chunk.js",
+    "static/media/IMG20200821161700-01.jpeg": "/stackIT_DemoTask/static/media/IMG20200821161700-01.2363d289a82aa114e751.jpeg",
+    "static/media/AbhishekOraon_CV_Uni.pdf": "/stackIT_DemoTask/static/media/AbhishekOraon_CV_Uni.4c7cc9695cab6f69c41c.pdf",
+    "static/media/1705126669272-removebg-previewad.png": "/stackIT_DemoTask/static/media/1705126669272-removebg-previewad.db6ed2413db816197c5f.png",
+    "static/media/stackit.png": "/stackIT_DemoTask/static/media/stackit.3cbf62e02071a2b0fb93.png",
+    "index.html": "/stackIT_DemoTask/index.html",
+    "main.e2d4cdd9.css.map": "/stackIT_DemoTask/static/css/main.e2d4cdd9.css.map",
+    "main.6cfabfe6.js.map": "/stackIT_DemoTask/static/js/main.6cfabfe6.js.map",
+    "787.d5fa4d18.chunk.js.map": "/stackIT_DemoTask/static/js/787.d5fa4d18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2d4cdd9.css",
+    "static/js/main.6cfabfe6.js"
+  ]
+}
