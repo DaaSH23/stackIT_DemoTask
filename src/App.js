@@ -11,7 +11,7 @@ function App() {
 
   useEffect(() => {
     const handleResize = () => {
-      if (window.innerWidth < 1440) {
+      if (window.innerWidth < 1350) {
         setRenderContent(false);
       } else {
         setRenderContent(true);
@@ -334,7 +334,7 @@ function App() {
                 />
               </svg></button></a>
             </div>
-            <div className='eduHead_text' style={{ marginLeft: "53rem", marginTop: "65rem", zIndex: "999999999", fontSize: "50px", color: "#2f3e46" }}>
+            <div className='eduHead_text' style={{ marginLeft: "60%", marginTop: "65rem", zIndex: "999999999", fontSize: "50px", color: "#2f3e46" }}>
               <svg
                 width="24"
                 height="24"
